@@ -6,4 +6,5 @@ This is the central point for the [NL eCcience Center's](https://www.esciencecen
 
 - [Vesuvius Challenge](https://scrollprize.org/)
 - [2023 Challenge on Kaggle](https://www.kaggle.com/competitions/vesuvius-challenge-ink-detection)
+- [Project Board (Internal)](https://github.com/orgs/escience-vesuvius/projects/1)
 
