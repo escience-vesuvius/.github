@@ -1,6 +1,6 @@
 # The Vesuvius Challenge
 
-This is the central point for the [NL eCcience Center's](https://www.esciencecenter.nl/) efforts to contribute to the [Vesuvius Challenge](https://scrollprize.org/).
+This is the central point for the [NL eScience Center's](https://www.esciencecenter.nl/) efforts to contribute to the [Vesuvius Challenge](https://scrollprize.org/).
 
 ## Important Links
 
